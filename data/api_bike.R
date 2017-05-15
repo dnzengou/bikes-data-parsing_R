@@ -1,5 +1,4 @@
-setwd("C:/Users/dez/Documents/R/R-Projects/Misc");
-
+json_data <- jsonlite::fromJSON(txt = "api.cotybik.es_v2_networks_villo_noheader.json", simplifyDataFrame = TRUE)
 #install.packages("RJSONIO")
 #library(RJSONIO);
 #library(RCurl);
@@ -56,18 +55,22 @@ str(json_data)
 #[1] "empty_slots" "extra"       "free_bikes"  "id"          "latitude"    "longitude"   "name"       
 #[8] "timestamp"
 
+df_sub <- json_data[,-2]
+#head(df_sub, n=10)
+#sink("df_sub.txt");df_sub;sink()
+
+## Let's bind json_data OR tidy with the address column, useful for geochart
+#merge <- cbind(json_data,json_data$extra$address)
+merge <- cbind(df_sub,json_data$extra$address)
+#head(merge, n=10)
+
 ## Check for the the data frame row names
 # rownames(json_data)
 
 library(reshape2);
 library(stringr);
 
-tidy <- arrange(json_data, name, timestamp)
-
-#df_sub <- json_data[,-2]
-#head(df_sub, n=10)
-#sink("df_sub.txt");df_sub;sink()
-
+#tidy <- arrange(merge, name, timestamp)
 #tail(json_data$extra$address, n=10)
 
 tidy <- tidy[ c("free_bikes", "latitude", "longitude", "name", "timestamp") ]
@@ -76,23 +79,26 @@ tidy <- tidy[ c("free_bikes", "latitude", "longitude", "name", "timestamp") ]
 
 #summary(tidy)
 
-## Let's bind json_data OR tidy with the address column, useful for geochart
-#merge <- cbind(json_data,json_data$extra$address)
-merge_tidy <- cbind(tidy,json_data$extra$address)
-
-colnames(merge_tidy)
+#colnames(merge)
 #[1] "free_bikes"              "latitude"                "longitude"              
 #[4] "name"                    "timestamp"               "json_data$extra$address"
 
-names(merge_tidy) <- c("free_bikes", "latitude", "longitude", "name", "timestamp", "address")
-tidy <- merge_tidy[ c("free_bikes", "latitude", "longitude", "name", "timestamp", "address") ]
-#tidy <- tidy[ c("free_bikes", "latitude", "longitude", "name", "timestamp", "address") ]
+names(merge) <- c("empty_slots", "free_bikes", "id", "latitude", "longitude", "name", "timestamp", "address")
+tidy <- merge[ c("empty_slots", "free_bikes", "latitude", "longitude", "name", "timestamp", "address") ]
+#head(tidy, n=10)
 
 library(googleVis)
 library(zoo)
 
 #G1a <- gvisGeoChart(merge_tidy, locationvar='address', colorvar='free_bikes')
 #plot(G1a)
+
+# Simple Scatterplot
+x <- tidy[ c("free_bikes") ]
+
+attach(tidy)
+plot(main="Scatterplot free_bikes by location", 
+     xlab="name", ylab="free_bikes ", pch=19)
 
 library(RColorBrewer)
 hist(merge_tidy$free_bikes, col=brewer.pal(8, 'Dark2'))
@@ -102,3 +108,19 @@ lines(density(merge_tidy$free_bikes)) #Get a density curve to go along with the 
 #idem for empty slots
 hist(merge$empty_slots, main="Histogram for Empty Slots", xlab="Empty Slots", border="green", col=brewer.pal(8, 'Dark2'), las=1, prob = TRUE)
 lines(density(merge$empty_slots))
+
+p <- plot(tidy$free_bikes,tidy$empty_slots, xlab="Empty Slots", ylab="Free bikes",main="Free bikes vs. Empty Slots", col=brewer.pal(8, 'Dark2'), pch=16);
+#plot(tidy$free_bikes,tidy$empty_slots, xlab="Free bikes", ylab="Empty Slots",main="Empty Slots vs. Free bikes", col=rgb(0,100,0,50,maxColorValue=255), pch=16);
+##OR
+#p <- plot(tidy$free_bikes,tidy$empty_slots, xlab="Free bikes", ylab="Empty Slots",main="Free bikes vs. Empty Slots", col=brewer.pal(8, 'Dark2'), pch=16);
+#w <- tidy$free_bikes
+#h <- hist(tidy$free_bikes, col=brewer.pal(8, 'Dark2'))
+#wfit<-seq(min(w),max(w),length=30) 
+#yfit<-dnorm(wfit,mean=mean(w),sd=sd(w)) 
+#yfit <- yfit*diff(h$mids[1:2])*length(w) 
+#lines(wfit, yfit, col="blue", lwd=2)
+
+##run a linear regression of Empty Slots on Free Bikes
+reg<-lm(tidy$empty_slots~tidy$free_bikes, data=tidy)
+##add the linreg to the plot
+abline(reg)
