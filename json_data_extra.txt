@@ -1,0 +1,287 @@
+                                                                                                                            address
+1                                                                                   CHATEAU-KASTEEL - AVENUE DU CHÂTEAU/KASTEELLAAN
+2                                                                                         STOCKEL/STOKKEL - AVENUE D'OPHEMLAAN, 1-3
+3                                     PLACE ST-JOSSE/ST-JOOSTPLEIN  -  RUE WILLEMS (FACE 5 - 11) / WILLEMSSTRAAT (TEGENOVER 5 - 11)
+4                                                                                        DOCKS BRUXSEL - AVENUE JULES VAN PRAETLAAN
+5                                                                     PAVILLON/PAVILJOEN - PLACE PAVILLON /PAVILJOENPLAATS 92-94-96
+6                                                                                                       SCHUMAN - RUE DE LA LOI 170
+7                                                                                        SCHEUTBOS - BD METTEWIE/LAAN FACE/VOOR 419
+8                                                      HEYSEL / HEISEL - AVENUE DE L'IMPERATRICE CHARLOTTE / KEIZERIN CHARLOTTELAAN
+9                                                                               DE BROUCKERE - PLACE DE BROUCKERE/DE BROUCKEREPLEIN
+10                                                                    FONTAINAS - BLD ANSPACH N°180 A 192/ANSPACHLAAN N°180 TOT 192
+11                                      METRO CERIA - CH DE MONS (FACE AU 1292 a 1284) / BERGENSESTEENWEG (TEGENOVER 1292 TOT 1284)
+12                                                                                  LES QUAIS/KAAIEN - QUAI A LA CHAUX/KALKKAAI 1-2
+13                                                                                                    KRAAINEM - AV DE WEZEMBEEK 7A
+14                                                         THOMAS BALIS - CHEE DE WAVRE 1395 à 1403 / WAVERSESTEENWEG 1395 TOT 1403
+15                                                                                       HERRMANN DEBROUX - AV HERRMANN DEBROUXLAAN
+16                                                                                              AVENUE HOUBA DE STROOPER LAAN 30-32
+17                                                         COLONEL BOURG/KOLONEL BOURG - RUE COLONEL BOURG/ KOLONEL BOURGSTRAAT 104
+18                                                                         DEUX CHAUSSEES - CHEE DE TERVURENLAAN FACE/TEGENOVER 93A
+19                                                                     GATTI DE GAMMOND - RUE DE STALLE PROLONGEE/STALLE STRAAT 160
+20                                                      HOTEL DES MONNAIES/MUNTHOTEL - BLD DE WATERLOO- WATERLOOLAAN 93/94/95/96/98
+21                                                GARE DE CALEVOET / KALEVOET STATION - CHEE D'ALSEMBERG / ALSEMBERGSESTEENWEG 1006
+22                                                         WOESTE - AVENUE NOTRE DAME DE LOURDES / ONZE-LIEVE-VROUW VAN LOURDESLAAN
+23                                                                           SABLON/ZAVEL - RUE DE LA REGENCE/REGENTSCHAPSSTRAAT 20
+24                                                                             BOILEAU - BOULEVARD SAINT MICHEL / SINT-MICHIELSLAAN
+25                                                                                         GENEVE - RUE DE GENEVE /  GENEVESTRAT 12
+26                                                 EMILE MAX LYCEE/LYCEUM EMILE MAX - CHAUSSEE D'HAECHT/ HAACHTSESTEENWEG 226 - 230
+27                                                               GARE MEISER / MEISER STATION - AVENUE ROGIER/ ROGIERLAAN 377 - 379
+28                                                                        HEMBEEK - ANGLE AV DES CROIX DE FEU / VUURKRUISENLAAN 7-9
+29                                                                         BERKENDAEL / BERKENDAAL - AVENUE ALBERT / ALBERTLAAN 134
+30                          ALTITUDE CENT / HOOGTE HONDERD - PLACE DE L'ALTITUDE 100 (FACE 31) / HOOGTE HONDERDPLEIN (TEGENOVER 31)
+31                                                                                     PARNASSE - RUE DU TRONE N°66 (CLOS PARNASSE)
+32           FOREST NATIONAL / VORST NATIONAAL - AV VICTOR ROUSSEAU DVT FOREST NATIONAL / VICTOR ROUSSEAU LAAN VOOR VORST NATIONAAL
+33                                            MUSEUM - CHAUSSEE DE WAVRE (FACE 229 - 233)  /  WAVERSESTEENWEG (TEGENOVER 229 - 233)
+34                                                                       DE HENNIN -  CHAUSSEE D'IXELLES/ELSENSE STEENWEG 254 - 260
+35                                                                     LEOPOLD II - AVENUE DE TERVUREN FACE / TERVURENLAAN VOOR 218
+36                               BIESTEBROECK / BIESTEBROEK - CHEE DE MONS (FACE AU 518-526) / BERGENSESTEENWEG (TEGENOVER 518-526)
+37                                                        PERE DE DEKEN/PATER DE DEKEN - RUE PÈRE DE DEKEN/ PATER DE DEKENSTRAAT 40
+38                                                                                          HANSEN-SOULIE - AVENUE HANSEN-SOULIE 42
+39                                                                       MUSEE DE LA BD/STRIPMUSEUM - BOULEVARD PACHECO/PACHECOLAAN
+40                                                      PLACE MORICHAR / MORICHARPLEIN - RUE DES ETUDIANTS/ STUDENTENSTRAAT 32 - 34
+41                                                                      SAINT ROCH/SINT-ROCHUS - CHAUSSEE D'ANVERS/ANTWERPSELAAN 37
+42                                                                                VAN OVERBEKE / AV VAN OVERBEKE / VAN OVERBEKELAAN
+43                                                                        BEEKANT - BOULEVARD EDMOND MACHTENS / EDMOND MACHTENSLAAN
+44                                                                                           TERDELT - PLACE TERDELT / TERDELTPLEIN
+45                                                                                                   3 TILLEULS - AV DES ORTOLANS 2
+46                                                                   LIEDTS - PLACE LIEDTS (FACE AU 38)/ LIEDTSPLEIN (TEGENOVER 38)
+47                                                                          GARE DU NORD/NOORDSTATION - PLACE DU NORD / NOORDPLAATS
+48                                                                                           MARCEL THIRY - AV MARCEL THIRY FACE 23
+49                                                                                   SQUARE ALBERT I / ALBERT I-SQUARE 25 - 26 - 27
+50                                                 KENNIS - BOULEVARD LAMBERMONT (20 M APRES 284)/LAMBERMONTLAAN   (20 M NA N° 284)
+51                                                                                                           MEUDON - SQUARE MEUDON
+52                                        VEEWEYDE / VEEWEIDE - BD THEO LAMBERT (FACE 5 a 9) / THEO LAMBERTLAAN (TEGENOVER ( tot 9)
+53                                        MAISON COMMUNALE DE FOREST / VORST GEMEENTEHUIS - RUE SAINT DENIS 4 / SINT DENIJSSTRAAT 4
+54                                                               STADE / STADIUM - AVENUE HOUBA DE STROOPER / HOUBA DE STROOPERLAAN
+55                                                                 DE PADUWA - AVENUE DES ANCIENS COMBATTANTS / OUD-STRIJDERSLAAN 1
+56                                                                                             GENOT - CHAUSSEE DE GAND DEVANT 1033
+57                                          GARE D'ETTERBEEK/STATION VAN ETTERBEEK - BOULEVARD GENERAL JACQUES/GENERAAL JACQUESLAAN
+58                                                VETERANS COLONIAUX / KOLONIALE VETERANEN - BD JULES GRAINDOR / JULES GRAINDORLAAN
+59                                                                                         TRACTEBEL - AV MARCEL THIRY FACE AU N°93
+60                                                              GARE DU MIDI / ZUIDSTATION - PLACE VICTOR HORTA / VICTOR HORTAPLEIN
+61                                                              BENS - CHEE D'ALSEMBERG DEVANT LE 548 / ALSEMBERSESTEENWEG VOOR 548
+62                                                              RODIN - AVENUE DE LA COURONNE (DEVANT 145 D) / KROONLAAN (N° 145 D)
+63                                                                                     HOUZEAU - AVENUE HOUZEAU 10 / HOUZEAULAAN 10
+64                                                                                               AGORA - PLACE AGORA/AGORAPLEIN 120
+65                                                  TRITON - AVENUE DES ANCIENS COMBATTANTS - PISCINE / OUD-STRIJDERSLAAN - ZWEMBAD
+66                                           NOTRE DAME / ONZE LIEVE VROUW - AV NOTRE DAME 53 A 61 / ONZE LIEVE VROUWLAAN 53 TOT 61
+67                                                                            COTEAUX/WIJNHEUVELEN - AVENUE ROGIER / ROGIERLAAN 128
+68                                                                      DUPUIS - BD SYLVAIN DUPUIS / SYLVAIN DUPUISLAAN 209-211-213
+69                                                                                     DARWIN - AV. BRUGMANN / BRUGMANNLAAN 139-147
+70                                                                                     AUMALE - RUE D'AUMALE / AUMALESTRAAT 339-341
+71                                                                                    CERES - AV. F. ROOSEVELT/F. ROOSEVELTLAAN, 14
+72                                                                                                 SAINT-ADRIEN - AV DU PESAGE N°21
+73                                                                                                 GEORGES HENRI - AV GEORGES HENRI
+74                                                                GARE DE LUXEMBOURG/LUXEMBURGSTATION - RUE DE TREVES / TRIERSTRAAT
+75                                                                  JULES CESAR - AVENUE DE TERVUREN DEVANT / TERVURENLAAN VOOR 278
+76                                                    PLACE BOCKSTAEL/BOCKSTAELPLAATS - BLD EMILE BOCKSTAEL/EMILE BOCKSTAELLAAN 254
+77                                                                              STEPHANIE/STEFANIA - AV LOUISE/LOUIZALAAN 61A-63-65
+78                                                            GRAY  -  RUE DES DEUX PONTS (FACE 4)/ TWEEBRUGGENSTRAAT (TEGENOVER 4)
+79                                                                                        BROUSTIN - AV DE JETTE/ JETSELAAN 73 - 81
+80                                                              MAISON COMMUNALE DE BERCHEM ST AGHATE - AVENUE DU ROI ALBERT DVT 38
+81                                                                                                    UCL - AVENUE E.MOUNIER,40 UCL
+82                                                                  CORAY - CHEE DE GAND DEVANT 579-587 GENTSESTEENWEG VOOR 579-587
+83                                                       PARC LACROIX / LACROIX PARK - AV PRINCESSE ELISABETH/PRINSES ELISABETHLAAN
+84                                                                                    DEFACQZ - RUE DEFACQZ/ DEFACQZSTRAAT 25-27-29
+85                                                                                       JACQMAIN - BLD. D'ANVERS / ANTWERPSELAAN 4
+86                                                                            RIBAUCOURT - BLD LEOPOLD II / LEOPOLD II-LAAN 121-123
+87                                                                                                   PLACE VAN MEYEL/VAN MEYELPLEIN
+88                                                   CELTES/KELTEN - AVENUE DE TERVUEREN (FACE AU 17) / TERVURENLAAN (TEGENOVER 17)
+89                                                                           STATUAIRES/BEELDHOUWWERK - AVENUE DE FRE/DE FRELAAN 62
+90                                                                                                     CARENE - AV LEON GROSJEAN 79
+91                                                      THEO LAMBERT - BD THEO LAMBERT (FACE 60) / THEO LAMBERT LAAN (TEGENOVER 60)
+92                                                                                         WIENER - PLACE WIENER 2 / WIENERPLAATS 2
+93                                                          LEMONNIER - BLD. MAURICE LEMONNIER/DE MAURICE LEMONNIERLAAN 202-204-206
+94                          CAMPUS CERIA / CAMPUS VAN CERIA - AV EMILE GRYSON (FACE 6 a 10) / EMILE GRYSONLAAN (TEGENOVER 6 tot 10)
+95                                                                HOUBA BRUGMANN - AVENUE HOUBA DE STROOPER / HOUBA DE STROOPERLAAN
+96                                                           AZALEES / AZALEA -   AVENUE PAUL DESCHANEL/LAAN FACE/TEGENOVER N°  6-8
+97                                                        MIROIR/SPIEGEL - AVENUE DE LAEKEN (FACE 36) / LAKENSE LAAN (TEGENOVER 36)
+98                                                                                                       VERGOTE - BD BRAND WHITLOK
+99                                                            BIZET - PLACE BIZET (face 11 a 19) / BIZETPLEIN (TEGENOVER 11 tot 19)
+100                                                                                                        KEYM - AVENUE DU COLVERT
+101                                      SACRE COEUR AUDERGHEM / HEILIGE HART OUDERGHEM - SQUARE DU SACREE CŒUR / HEILIG-HARTSQUARE
+102                                                                                         MERCKX - ROUTE DE LENNIK / LENNIKSEBAAN
+103                                                       PONT BOCKSTAEL/BRUG BOCKSTAEL - BLD EMILE BOCKSTAEL/EMILE BOCKSTAELLAAN 5
+104                                                                               ATOMIUM - BOULEVARD DU CENTENAIRE / EEUWFEESTLAAN
+105                                                                            HOUFFALIZE - PLACE DE HOUFFALIZE /HOUFFALIZEPLEIN 58
+106                                                                             RITTWEGER - RUE RITTWEGER 6-8 / RITTWEGERSTRAAT 6-8
+107                                                                                                  ERASME - ROUTE DE LENNIK N°808
+108                                                                DUC PETIAUX - CHAUSSEE DE WATERLOO/ WATERLOOSESTEENWEG 376 - 370
+109                                                                               MUSEE DU TRAM - AVENUE DE TERVUREN / TERVURENLAAN
+110                                                                                     DUNANT - AV HENRI DUNANT / HENRI DUNANTLAAN
+111              JARDIN AUX FLEURS/BLOEMENHOF - PLACE DU JARDIN AUX FLEURS/BLOEMENHOFPLEIN - RUE DES 6 JETONS/ZES PENNIGENSTRAAT 71
+112                                                SQUARE GEORGES MARLOWSQUARE - SQUARE MARLOW FACE 3-4-5 / MARLOWSQUARE VOOR 3-4-5
+113                                             MEISER - PLACE GENERAL MEISER (FACE 1 - 3) / GENERAAL MEISERPLEIN (TEGENOVER 1 - 3)
+114                                                            ST-LAZARE/SINT-LAZARUS   -   BLD SAINT-LAZARE/SINT-LAZARUSLAAN 4 -10
+115                                               HALL DES SPORTS - AV DES 9 PROVINCES / 9 PROVINCIES LAAN / RUE VANDERVEKEN/STRAAT
+116                                                                                 COGHEN - AV COGHEN 1 A 5 / COGHENSTRAAT 1 TOT 5
+117                                                                           LOUIS TITZ - AVENUE DE LA CHASSE/ JACHTLAAN 182 - 184
+118                                                                                        ARAUCARIA - AV DES CROIX DE FEU DEV 221C
+119                                                                              BAUDOUIN/BOUDEWIJN - RUE DE LAEKEN / LAKENSESTRAAT
+120                                                                               LIBERTE - AV DE LA LIBERTE, 44 / VRIJHEIDSLAAN,44
+121                                                                    KAREL BOGAERT - BD EMILE BOCKSTAEL / EMILE BOCKSTAELLAAN 307
+122                                        MAISON COMMUNALE DE JETTE / JETTE GEMEENTEHUIS - CHAUSSEE DE WEMMEL/WEMMELSESTEENWEG 102
+123                                                                                                   ZELLIK - CHAUSSEE DE ZELLIK 4
+124                                                         ST DENIS / ST DENIJS - PLACE ST DENIS FACE 68 / ST DENIJSPLAATS VOOR 68
+125                     ABBAYE DE LA CAMBRE/ABDIJ TER KAMEREN - AVENUE EMILE DURAY (FACE AU N° 2) /EMILE DURAYLAAN (TEGENOVER N° 2)
+126                                                                        HENRI REY - BD FELIX PAULSEN / FELIX PAULSENLAAN 3-5-7-9
+127                                                      GUTENBERG - SQUARE GUTENBERG (FACE N° 5)/GUTENBERGSSQUARE (TEGENOVER N° 5)
+128                                         BASCULE -  CHAUSSEE DE VLEURGAT (DEVANT 215 - 217) / VLEURGATSESTEENWEG  (N° 215 - 217)
+129                                                                                EVERE SHOPPING - AV DES LOISIRS / VRIJETIJDSLAAN
+130                                                                                                 THIRY - BD DE LA WOLUWE DVT 100
+131                                                        CURIE - SQUARE MARIE CURIE (FACE 30) / MARIE CURIE SQUARE (TEGENOVER 30)
+132                                                                RTL  - CHAUSSEE DE LOUVAIN (DVT 770)/ LEUVENSE STEENWEG (N° 770)
+133                                                            PAQUOT -  RUE JEAN PAQUOT (44 A 48) /JEAN PAQUOTSTRAAT (44 T.E.M 48)
+134                                                               ANNEESSENS - BLD MAURICE LEMONNIER/MAURICE LEMONNIERLAAN 42-44-46
+135                                                                                             BICHON - PLACE BICHON / BICHONPLEIN
+136                                                                                 ROCHEFORT - AV. WIELEMANS CEUPPENS LAAN 184-190
+137                                                                       GEYSKENS - AVENUE ISIDORE GEYSKENSLAAN FACE/TEGENOVER 108
+138                                                                  LENOIR - BLD DE SMET DE NAEYER/DE SMET DE NAEYERLAAN 187 - 189
+139                                   CHARLES GRAUX - CHAUSSEE DE WATERLOO (DEVANT N° 585 - 587)/ WATERLOOSESTEENWEG (N° 585 - 587)
+140                                                                     PISCINE / ZWEMBAD - RUE DE LOMBARTZYDE / LOMBARDSIJDESTRAAT
+141                                                      ULB PLAINE - BOULEVARD DE LA PLAINE  (ENTREE ULB) / PLEINLAAN (INGANG VUB)
+142                                                                    SQUARE DU CENTENAIRE / EEUWFEESTSQUARE- SQUARE DU CENTENAIRE
+    banking bonus  last_update slots status uid
+1     FALSE FALSE 1.494781e+12    24   OPEN 133
+2      TRUE FALSE 1.494782e+12    25   OPEN 360
+3      TRUE FALSE 1.494781e+12    24   OPEN  59
+4      TRUE FALSE 1.494781e+12    20   OPEN 364
+5      TRUE FALSE 1.494782e+12    24   OPEN 136
+6      TRUE  TRUE 1.494781e+12    40   OPEN  66
+7     FALSE FALSE 1.494781e+12    25   OPEN 272
+8      TRUE FALSE 1.494781e+12    25   OPEN 280
+9      TRUE FALSE 1.494781e+12    38   OPEN  21
+10    FALSE FALSE 1.494781e+12    31   OPEN  34
+11     TRUE FALSE 1.494781e+12    25   OPEN 211
+12     TRUE FALSE 1.494781e+12    20   OPEN  47
+13     TRUE FALSE 1.494781e+12    17   OPEN 336
+14     TRUE FALSE 1.494781e+12    25   OPEN 324
+15    FALSE FALSE 1.494781e+12    30   OPEN 314
+16     TRUE FALSE 1.494781e+12    25   OPEN 194
+17     TRUE FALSE 1.494781e+12    25   OPEN 176
+18     TRUE FALSE 1.494781e+12    19   OPEN 132
+19     TRUE FALSE 1.494781e+12    20   OPEN 246
+20    FALSE FALSE 1.494781e+12    25   OPEN  39
+21     TRUE FALSE 1.494781e+12    25   OPEN 290
+22    FALSE FALSE 1.494781e+12    25   OPEN  88
+23     TRUE  TRUE 1.494782e+12    17   OPEN  11
+24     TRUE FALSE 1.494781e+12    25   OPEN 182
+25     TRUE FALSE 1.494782e+12    25   OPEN 267
+26     TRUE  TRUE 1.494781e+12    25   OPEN 147
+27    FALSE FALSE 1.494781e+12    22   OPEN 148
+28     TRUE FALSE 1.494781e+12    25   OPEN 306
+29    FALSE FALSE 1.494781e+12    24   OPEN 230
+30     TRUE  TRUE 1.494781e+12    25   OPEN 228
+31     TRUE FALSE 1.494781e+12    22   OPEN 355
+32     TRUE FALSE 1.494782e+12    25   OPEN 235
+33     TRUE FALSE 1.494781e+12    25   OPEN 102
+34     TRUE  TRUE 1.494781e+12    20   OPEN 105
+35    FALSE  TRUE 1.494781e+12    20   OPEN   1
+36     TRUE FALSE 1.494781e+12    25   OPEN 207
+37    FALSE FALSE 1.494782e+12    25   OPEN 185
+38     TRUE FALSE 1.494781e+12    24   OPEN 348
+39    FALSE FALSE 1.494782e+12    25   OPEN  31
+40     TRUE  TRUE 1.494781e+12    20   OPEN  19
+41    FALSE FALSE 1.494781e+12    24   OPEN  41
+42    FALSE FALSE 1.494782e+12    24   OPEN 256
+43     TRUE FALSE 1.494782e+12    25   OPEN 175
+44    FALSE FALSE 1.494782e+12    22   OPEN 190
+45    FALSE FALSE 1.494781e+12    18   OPEN 345
+46     TRUE FALSE 1.494781e+12    25   OPEN 139
+47     TRUE FALSE 1.494781e+12    43   OPEN  58
+48     TRUE FALSE 1.494781e+12    20   OPEN 334
+49    FALSE FALSE 1.494781e+12    25   OPEN  27
+50     TRUE FALSE 1.494781e+12    25   OPEN 164
+51     TRUE FALSE 1.494781e+12    22   OPEN 339
+52     TRUE FALSE 1.494782e+12    25   OPEN 209
+53     TRUE FALSE 1.494781e+12    25   OPEN 236
+54     TRUE FALSE 1.494781e+12    25   OPEN 278
+55     TRUE FALSE 1.494781e+12    25   OPEN 270
+56    FALSE FALSE 1.494781e+12    20   OPEN 186
+57     TRUE  TRUE 1.494781e+12    30   OPEN 122
+58     TRUE  TRUE 1.494781e+12    25   OPEN 200
+59     TRUE FALSE 1.494781e+12    25   OPEN 333
+60     TRUE FALSE 1.494781e+12    40   OPEN  53
+61     TRUE FALSE 1.494781e+12    20   OPEN 286
+62    FALSE FALSE 1.494781e+12    22   OPEN 110
+63     TRUE FALSE 1.494781e+12    20   OPEN 288
+64     TRUE FALSE 1.494781e+12    19   OPEN  23
+65     TRUE FALSE 1.494781e+12    25   OPEN 260
+66     TRUE FALSE 1.494781e+12    20   OPEN 264
+67     TRUE FALSE 1.494781e+12    25   OPEN 145
+68     TRUE FALSE 1.494781e+12    25   OPEN 204
+69     TRUE  TRUE 1.494781e+12    25   OPEN 239
+70     TRUE FALSE 1.494781e+12    25   OPEN 202
+71     TRUE  TRUE 1.494782e+12    25   OPEN  80
+72    FALSE FALSE 1.494781e+12    20   OPEN 299
+73     TRUE FALSE 1.494781e+12    20   OPEN 331
+74     TRUE  TRUE 1.494781e+12    44   OPEN 100
+75     TRUE  TRUE 1.494782e+12    20   OPEN  63
+76     TRUE FALSE 1.494782e+12    25   OPEN  95
+77     TRUE FALSE 1.494781e+12    25   OPEN  45
+78     TRUE FALSE 1.494781e+12    20   OPEN 127
+79    FALSE FALSE 1.494781e+12    17   OPEN  90
+80     TRUE FALSE 1.494782e+12    20   OPEN 342
+81     TRUE FALSE 1.494781e+12    26   OPEN 338
+82     TRUE FALSE 1.494781e+12    25   OPEN 274
+83    FALSE FALSE 1.494781e+12    25   OPEN 135
+84     TRUE FALSE 1.494781e+12    25   OPEN 107
+85     TRUE FALSE 1.494781e+12    23   OPEN  22
+86    FALSE FALSE 1.494782e+12    25   OPEN  50
+87     TRUE FALSE 1.494598e+12    17   OPEN 189
+88     TRUE  TRUE 1.494782e+12    30   OPEN 179
+89     TRUE FALSE 1.494781e+12    25   OPEN 241
+90    FALSE FALSE 1.494782e+12    20   OPEN 323
+91     TRUE FALSE 1.494781e+12    25   OPEN 212
+92     TRUE FALSE 1.494781e+12    25   OPEN 294
+93     TRUE FALSE 1.494782e+12    25   OPEN  13
+94    FALSE  TRUE 1.494781e+12    30   OPEN 214
+95     TRUE FALSE 1.494781e+12    25   OPEN 279
+96    FALSE FALSE 1.494781e+12    25   OPEN 140
+97     TRUE FALSE 1.494782e+12    25   OPEN  87
+98     TRUE FALSE 1.494781e+12    24   OPEN 332
+99     TRUE FALSE 1.494782e+12    23   OPEN 217
+100    TRUE FALSE 1.494781e+12    25   OPEN 293
+101    TRUE FALSE 1.494782e+12    20   OPEN 315
+102    TRUE FALSE 1.494781e+12    25   OPEN 222
+103    TRUE FALSE 1.494781e+12    25   OPEN  81
+104    TRUE FALSE 1.494781e+12    25   OPEN 281
+105   FALSE FALSE 1.494781e+12    25   OPEN 138
+106   FALSE FALSE 1.494781e+12    20   OPEN 292
+107   FALSE FALSE 1.494781e+12    25   OPEN 347
+108   FALSE FALSE 1.494781e+12    25   OPEN  78
+109   FALSE FALSE 1.494781e+12    25   OPEN 128
+110   FALSE FALSE 1.494781e+12    20   OPEN 268
+111    TRUE FALSE 1.494781e+12    20   OPEN   4
+112    TRUE FALSE 1.494781e+12    25   OPEN 289
+113    TRUE  TRUE 1.494781e+12    25   OPEN 150
+114   FALSE FALSE 1.494782e+12    25   OPEN  60
+115   FALSE FALSE 1.494781e+12    25   OPEN 298
+116    TRUE FALSE 1.494781e+12    25   OPEN 285
+117    TRUE FALSE 1.494781e+12    25   OPEN 181
+118   FALSE FALSE 1.494781e+12    25   OPEN 304
+119    TRUE FALSE 1.494781e+12    25   OPEN  29
+120    TRUE  TRUE 1.494781e+12    16   OPEN 258
+121    TRUE FALSE 1.494781e+12    20   OPEN 307
+122    TRUE FALSE 1.494781e+12    25   OPEN  86
+123    TRUE FALSE 1.494782e+12    25   OPEN 101
+124    TRUE FALSE 1.494781e+12    25   OPEN 234
+125    TRUE FALSE 1.494782e+12    20   OPEN 113
+126    TRUE  TRUE 1.494781e+12    14   OPEN 199
+127    TRUE FALSE 1.494781e+12    25   OPEN  18
+128    TRUE  TRUE 1.494781e+12    25   OPEN 123
+129    TRUE FALSE 1.494781e+12    25   OPEN 265
+130    TRUE FALSE 1.494782e+12    20   OPEN 335
+131   FALSE FALSE 1.494782e+12    25   OPEN 221
+132    TRUE FALSE 1.494781e+12    25   OPEN 143
+133    TRUE FALSE 1.494781e+12    20   OPEN 119
+134    TRUE FALSE 1.494782e+12    35   OPEN   9
+135    TRUE FALSE 1.494781e+12    24   OPEN 173
+136    TRUE FALSE 1.494781e+12    25   OPEN 224
+137    TRUE FALSE 1.494781e+12    20   OPEN 317
+138   FALSE FALSE 1.494781e+12    24   OPEN  92
+139    TRUE  TRUE 1.494781e+12    25   OPEN 124
+140    TRUE FALSE 1.494782e+12    14   OPEN 283
+141    TRUE FALSE 1.494781e+12    25   OPEN 116
+142    TRUE FALSE 1.494781e+12    25   OPEN 309
+ [ reached getOption("max.print") -- omitted 202 rows ]
